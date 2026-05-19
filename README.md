@@ -1,5 +1,7 @@
 //* How to use the DHT-11 sensor with Arduino
+
 //   Temperature and humidity sensor and
+
 //   I2C LCD1602
  //  SDA --> A4
  //  SCL --> A5
